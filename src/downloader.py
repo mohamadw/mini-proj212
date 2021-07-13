@@ -37,8 +37,14 @@ for i in range(0, 5):
     hdr_Cells[i].text = header[i]
 ###########
 
-def read_na_jsons(start_at, do_it_for):
+def read_jsons(start_at, do_it_for):
+    print("gggggggggg") #
+    b = 0
     for i in range(start_at, start_at + do_it_for):
+        b = b + 1
+        if(b % 100 == 0):
+            print(b)
+        #
         url = base_url + str(i)
         try:
             initial_product_meta_data = read_meta_data(url)
@@ -48,7 +54,7 @@ def read_na_jsons(start_at, do_it_for):
             file_name = initial_product_meta_data[0]["objDesc_objectName_t"]
             desc = str(initial_product_meta_data[0]["objDesc_objectDesc_t"])
             
-            if((start_year > start_year_to_filter) ): # & ("ועדת השמות הממשלתית" in [addAttr, addAttr_, file_name, desc])
+            if((start_year > start_year_to_filter) & ("ועדת השמות הממשלתית" in [addAttr, addAttr_, file_name, desc])):
                 datingPeriodStart = str(initial_product_meta_data[0]["objDate_datingPeriodStart_t"])
                 datingPeriodEnd = str(initial_product_meta_data[0]["objDate_datingPeriodEnd_t"])
                 status = str(initial_product_meta_data[0]["addAttr_statusChasifa_t"])
@@ -93,7 +99,7 @@ def update_dic(dic, key):
     else:
         dic[key] = 1
 
-# generic function to read json data into an object from a give url
+# Generic function to read json data into an object from a give url
 def read_meta_data(url):
     try:
         data = urllib.request.urlopen(url)
@@ -107,7 +113,7 @@ def read_meta_data(url):
 def is_valid_data(data):
     return data.getcode() != 404
 
-# load the meta data as a json file into external/local location
+# Load the meta data as a json file into external/local location
 def load_data_into_file(data_to_load, file_name):
     try:
         with open(metadata_dir + file_name, 'w', encoding='utf8') as jfile:
@@ -116,7 +122,7 @@ def load_data_into_file(data_to_load, file_name):
     except:
         pass
 
-# load files that we've retrieved from the given url into external/local location
+# Load files that we've retrieved from the given url into external/local location
 def load_attachments(product_data, file_name):
     try:
         file_extension = "." + product_data["objHier_attachment_attachmentType_s"]
@@ -184,7 +190,7 @@ def statusDA():
     con.set_color([0, 0, 0])
     ax2.add_artist(con)
     con.set_linewidth(4)
-    fig.savefig(data_analysis_dir + 'status_types.png')
+    fig.savefig(data_analysis_dir + 'Status&Types.png')
 
 def yearsDA():
     # A python dictionary
@@ -194,7 +200,7 @@ def yearsDA():
     yearsDF = pd.DataFrame(data=years_data)
     # Draw a vertical bar chart
     fig = yearsDF.plot.bar(x="Numbers", y="Files", rot=20, title="Number of files downloaded")
-    plt.savefig(data_analysis_dir + 'years.png')
+    plt.savefig(data_analysis_dir + 'Years.png')
 
 def docSource():
     # Pie chart, where the slices will be ordered and plotted counter-clockwise:
@@ -205,7 +211,7 @@ def docSource():
             shadow=True, startangle=90, colors=matplotlib.colors.TABLEAU_COLORS)
     ax1.axis('equal') # Equal aspect ratio ensures that pie is drawn as a circle.
     ax1.set_title('Documentetion source')
-    plt.savefig(data_analysis_dir + 'docSource.png')
+    plt.savefig(data_analysis_dir + 'DocSource.png')
 
 # Create target directorys if they don't exist
 def mkdirs(path, arr_names):
@@ -218,21 +224,21 @@ def main():
     mkdirs('.', ['Archives'])
     mkdirs('./Archives', ['Attachment', 'DataAnalysis', 'MetaData'])
 
-    read_na_jsons(121500, 100)
-    #read_na_jsons(141000, 2000)
-    #read_na_jsons(151000, 2000)
-    #read_na_jsons(161000, 10000) # 170414
-    #read_na_jsons(222000, 2000) # 222893
-    #read_na_jsons(492000, 2000) # 493006
-    #read_na_jsons(510000, 90000) # 514510 552722 560498 574303 575872 584082 599632
-    #read_na_jsons(1367000, 2000) # 1367794
-    #read_na_jsons(1735000, 2000) # 1735008
-    #read_na_jsons(2182000, 2000) # 2183277
-    #read_na_jsons(2237500, 2000) # 2238607
-    #read_na_jsons(479000, 122000) #1508302
+    read_jsons(121500, 2000)
+    read_jsons(141000, 2000)
+    read_jsons(151000, 2000)
+    read_jsons(161000, 10000)
+    read_jsons(222000, 2000)
+    read_jsons(492000, 2000)
+    read_jsons(510000, 90000)
+    read_jsons(1367000, 2000)
+    read_jsons(1735000, 2000)
+    read_jsons(2182500, 2000)
+    read_jsons(2238000, 2000)
+    read_jsons(1508000, 2000)
 
     # Data analysis
-    doc.save(data_analysis_dir + 'table.docx')
+    doc.save(data_analysis_dir + 'Table.docx')
     statusDA()
     yearsDA()
     docSource()
