@@ -38,13 +38,7 @@ for i in range(0, 5):
 ###########
 
 def read_jsons(start_at, do_it_for):
-    print("gggggggggg") #
-    b = 0
     for i in range(start_at, start_at + do_it_for):
-        b = b + 1
-        if(b % 100 == 0):
-            print(b)
-        #
         url = base_url + str(i)
         try:
             initial_product_meta_data = read_meta_data(url)
@@ -131,7 +125,7 @@ def load_attachments(product_data, file_name):
     except:
         raise Exception("Could not load the wanted attachment")
 
-def statusDA():
+def statusTypesDA():
     # make figure and assign axis objects
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(9, 5))
     fig.subplots_adjust(wspace=0)
@@ -141,7 +135,7 @@ def statusDA():
     labels = ['Accessible', 'Hidden', 'Partially exposed']
     explode = [0.1, 0, 0] # only "explode" the 1st slice (i.e. 'Accessible')
     # rotate so that first wedge is split by the x-axis
-    angle = ratios[0] # -180 * ratios[0]
+    angle = -180 * ratios[0]
     ax1.pie(ratios, autopct='%1.1f%%', startangle=angle, labels=labels,
             explode=explode, colors=['lightskyblue', 'lightcoral', 'gold'])
     ax1.set_title(str(ratios[0]+ratios[1]+ratios[2])+' files downloaded')
@@ -239,7 +233,7 @@ def main():
 
     # Data analysis
     doc.save(data_analysis_dir + 'Table.docx')
-    statusDA()
+    statusTypesDA()
     yearsDA()
     docSource()
     #plt.show()
