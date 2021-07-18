@@ -1,0 +1,338 @@
+[
+    {
+        "product_id_i": 549717,
+        "type_i": 1,
+        "lang_code_s": "en",
+        "name": "File",
+        "sku": "0b071706807c68a1",
+        "GroupFamilyName_s": "13325-0b071706807c68a1",
+        "modification_timestamp_tdt": "2020-05-31T20:01:37Z",
+        "modification_timestamp_s": "2020-05-31 20:01:37",
+        "group_id_i": 13325,
+        "product_code_t": "0b071706807c68a1",
+        "FamilyName_t": "0b071706807c68a1",
+        "objHier_objectType_t": "FILE",
+        "objHier_isFictiveItem_t": "false",
+        "objHier_isDeleted_t": "false",
+        "objDesc_objectName_t": "דיונים על מינוי חברי ועדת השמות",
+        "objDesc_objectName_tphon": "דיונים על מינוי חברי ועדת השמות",
+        "objDesc_objectName_e_t": "דיונים על מינוי חברי ועדת השמות",
+        "objDesc_objectDesc_t": "התכתבות בין פרופ' אברהם בירן יו\"ר הועדה לבין אישים שונים ודו\"חות מישיבות הועדה בקשר למינוי חבריה",
+        "objDesc_objectDesc_tar": "התכתבות בין פרופ' אברהם בירן יו\"ר הועדה לבין אישים שונים ודו\"חות מישיבות הועדה בקשר למינוי חבריה",
+        "objDesc_objectDesc_tfr": "התכתבות בין פרופ' אברהם בירן יו\"ר הועדה לבין אישים שונים ודו\"חות מישיבות הועדה בקשר למינוי חבריה",
+        "objDesc_objectDesc_e_t": "התכתבות בין פרופ' אברהם בירן יו\"ר הועדה לבין אישים שונים ודו\"חות מישיבות הועדה בקשר למינוי חבריה",
+        "objAttr_isGsaFeedEnabled_t": "true",
+        "objDate_datingPeriodStart_t": "01/11/1981",
+        "objDate_datingPeriodStartYear_t": "1981",
+        "objDate_datingPeriodEnd_t": "31/08/1985",
+        "objDate_datingPeriodEndYear_t": "1985",
+        "objHier_archiveId_t": "0b07170680020246",
+        "objHier_archiveName_t": "ועדת השמות הממשלתית",
+        "objHier_archiveName_e_t": "ועדת השמות הממשלתית",
+        "objHier_parentObjectId_t": "0b07170680359f2d",
+        "objAttr_archiveEditDate_t": "2020-05-24",
+        "objAttr_materialType_t": "תיק מסמכים",
+        "objAttr_mediaType_t": "מסמך",
+        "objAttr_mediaTypeOrig_t": "תיק מסמכים",
+        "addAttr_objectName_t": "ועדת השמות הממשלתית",
+        "addAttr_orgTree_t": "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית",
+        "addAttr_orgTree_e_t": "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית",
+        "addAttr_type_t": "תיק מסמכים",
+        "objHier_objectReference_t": "ISA-PMO-GovNamesCommittee-000cqah",
+        "addAttr_statusChasifa_t": "חסוי",
+        "addAttr_tikOldNumber_t": "ג - 6 / 12403",
+        "addAttr_tikOldNumber_e_t": "ג - 6 / 12403",
+        "addAttr_matsa_t": "עבר דיגיטציה",
+        "addAttr_taarichMiuiadHashifa_t": "2000",
+        "addAttr_mezaheh_t": "ISA-PMO-GovNamesCommittee-000cqah",
+        "addAttr_mezaheh_e_t": "ISA-PMO-GovNamesCommittee-000cqah",
+        "addAttr_rimonObjectName_t": "דיונים על מינוי חברי ועדת השמות",
+        "objDate_datingPeriodStartMonth_t": "11",
+        "objDate_datingPeriodEndMonth_t": "08",
+        "task_t": "1597",
+        "altRef_relationType_t": "סימול מקורי",
+        "contentEntity_t": "0b07170680020246",
+        "product_code_s": "0b071706807c68a1",
+        "FamilyName_s": "0b071706807c68a1",
+        "objHier_objectType_s": "FILE",
+        "objHier_isFictiveItem_s": "false",
+        "objHier_isDeleted_s": "false",
+        "objDesc_objectName_s": "דיונים על מינוי חברי ועדת השמות",
+        "objDesc_objectDesc_s": "התכתבות בין פרופ' אברהם בירן יו\"ר הועדה לבין אישים שונים ודו\"חות מישיבות הועדה בקשר למינוי חבריה",
+        "objAttr_isGsaFeedEnabled_s": "true",
+        "objDate_datingPeriodStart_s": "01/11/1981",
+        "objDate_datingPeriodStartYear_s": "1981",
+        "objDate_datingPeriodEnd_s": "31/08/1985",
+        "objDate_datingPeriodEndYear_s": "1985",
+        "objHier_archiveId_s": "0b07170680020246",
+        "objHier_archiveName_s": "ועדת השמות הממשלתית",
+        "objHier_parentObjectId_s": "0b07170680359f2d",
+        "objAttr_archiveEditDate_s": "2020-05-24",
+        "objAttr_materialType_s": "תיק מסמכים",
+        "objAttr_mediaType_s": "מסמך",
+        "objAttr_mediaTypeOrig_s": "תיק מסמכים",
+        "addAttr_objectName_s": "ועדת השמות הממשלתית",
+        "addAttr_orgTree_s": "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית",
+        "addAttr_type_s": "תיק מסמכים",
+        "objHier_objectReference_s": "ISA-PMO-GovNamesCommittee-000cqah",
+        "addAttr_statusChasifa_s": "חסוי",
+        "addAttr_tikOldNumber_s": "ג - 6 / 12403",
+        "addAttr_matsa_s": "עבר דיגיטציה",
+        "addAttr_taarichMiuiadHashifa_s": "2000",
+        "addAttr_mezaheh_s": "ISA-PMO-GovNamesCommittee-000cqah",
+        "addAttr_rimonObjectName_s": "דיונים על מינוי חברי ועדת השמות",
+        "objDate_datingPeriodStartMonth_s": "11",
+        "objDate_datingPeriodEndMonth_s": "08",
+        "task_s": "1597",
+        "altRef_relationType_s": "סימול מקורי",
+        "contentEntity_s": "0b07170680020246",
+        "product_code_ss": [
+            "0b071706807c68a1"
+        ],
+        "FamilyName_ss": [
+            "0b071706807c68a1"
+        ],
+        "objHier_objectType_ss": [
+            "FILE"
+        ],
+        "objHier_isFictiveItem_ss": [
+            "false"
+        ],
+        "objHier_isDeleted_ss": [
+            "false"
+        ],
+        "objDesc_objectName_ss": [
+            "דיונים על מינוי חברי ועדת השמות"
+        ],
+        "objDesc_objectDesc_ss": [
+            "התכתבות בין פרופ' אברהם בירן יו\"ר הועדה לבין אישים שונים ודו\"חות מישיבות הועדה בקשר למינוי חבריה"
+        ],
+        "objAttr_isGsaFeedEnabled_ss": [
+            "true"
+        ],
+        "objDate_datingPeriodStart_ss": [
+            "01/11/1981"
+        ],
+        "objDate_datingPeriodStartYear_ss": [
+            "1981"
+        ],
+        "objDate_datingPeriodEnd_ss": [
+            "31/08/1985"
+        ],
+        "objDate_datingPeriodEndYear_ss": [
+            "1985"
+        ],
+        "objHier_archiveId_ss": [
+            "0b07170680020246"
+        ],
+        "objHier_archiveName_ss": [
+            "ועדת השמות הממשלתית"
+        ],
+        "objHier_parentObjectId_ss": [
+            "0b07170680359f2d"
+        ],
+        "objAttr_archiveEditDate_ss": [
+            "2020-05-24"
+        ],
+        "objAttr_materialType_ss": [
+            "תיק מסמכים"
+        ],
+        "objAttr_mediaType_ss": [
+            "מסמך"
+        ],
+        "objAttr_mediaTypeOrig_ss": [
+            "תיק מסמכים"
+        ],
+        "addAttr_objectName_ss": [
+            "ועדת השמות הממשלתית"
+        ],
+        "addAttr_orgTree_ss": [
+            "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית"
+        ],
+        "addAttr_type_ss": [
+            "תיק מסמכים"
+        ],
+        "objHier_objectReference_ss": [
+            "ISA-PMO-GovNamesCommittee-000cqah"
+        ],
+        "addAttr_statusChasifa_ss": [
+            "חסוי"
+        ],
+        "addAttr_tikOldNumber_ss": [
+            "ג - 6 / 12403"
+        ],
+        "addAttr_matsa_ss": [
+            "עבר דיגיטציה"
+        ],
+        "addAttr_taarichMiuiadHashifa_ss": [
+            "2000"
+        ],
+        "addAttr_mezaheh_ss": [
+            "ISA-PMO-GovNamesCommittee-000cqah"
+        ],
+        "addAttr_rimonObjectName_ss": [
+            "דיונים על מינוי חברי ועדת השמות"
+        ],
+        "objDate_datingPeriodStartMonth_ss": [
+            "11"
+        ],
+        "objDate_datingPeriodEndMonth_ss": [
+            "08"
+        ],
+        "task_ss": [
+            "1597"
+        ],
+        "altRef_relationType_ss": [
+            "סימול מקורי"
+        ],
+        "contentEntity_ss": [
+            "0b07170680020246"
+        ],
+        "solr_index_timestamp_tdt": "2021-05-11T10:52:47Z",
+        "solr_index_timestamp_s": "2021-05-11 10:52:47",
+        "file_has_items_s": "",
+        "organizations_s": "ועדת השמות הממשלתית",
+        "organizations_t": "ועדת השמות הממשלתית",
+        "organizations_ss": [
+            "ועדת השמות הממשלתית"
+        ],
+        "enrichment_s": "",
+        "enrichment_t": "",
+        "enrichment_e_t": "",
+        "enrichment_1_s": "",
+        "enrichment_1_t": "",
+        "enrichment_2_s": "",
+        "enrichment_2_t": "",
+        "event_s": "",
+        "event_t": "",
+        "subject_s": "",
+        "subject_t": "",
+        "place_s": "",
+        "place_t": "",
+        "person_s": "",
+        "person_t": "",
+        "person_tphon": "",
+        "project_s": "",
+        "project_t": "",
+        "attachment_content_t": "",
+        "attachment_content_tar": "",
+        "attachment_content_tfr": "",
+        "attachment_content_e_t": "",
+        "group_id_is": [
+            1
+        ],
+        "objectDatingYear_ss": [
+            "1981",
+            "1985"
+        ],
+        "objDesc_objectDesc_short_s": "התכתבות בין פרופ' אברהם בירן יו\"ר הועדה לבין אישים שונים ודו\"חות מישיבות הועדה בקשר למינוי חבריה",
+        "sig_media_type_s": "תיק",
+        "sig_media_type_ss": [
+            "תיק"
+        ],
+        "attachment_url_s": "n",
+        "objHier_attachment_attachmentType_s": "n",
+        "objectDatingMonths_ss": [
+            "11/1981",
+            "12/1981",
+            "01/1982",
+            "02/1982",
+            "03/1982",
+            "04/1982",
+            "05/1982",
+            "06/1982",
+            "07/1982",
+            "08/1982",
+            "09/1982",
+            "10/1982",
+            "11/1982",
+            "12/1982",
+            "01/1983",
+            "02/1983",
+            "03/1983",
+            "04/1983",
+            "05/1983",
+            "06/1983",
+            "07/1983",
+            "08/1983",
+            "09/1983",
+            "10/1983",
+            "11/1983",
+            "12/1983",
+            "01/1984",
+            "02/1984",
+            "03/1984",
+            "04/1984",
+            "05/1984",
+            "06/1984",
+            "07/1984",
+            "08/1984",
+            "09/1984",
+            "10/1984",
+            "11/1984",
+            "12/1984",
+            "01/1985",
+            "02/1985",
+            "03/1985",
+            "04/1985",
+            "05/1985",
+            "06/1985",
+            "07/1985",
+            "08/1985"
+        ],
+        "objectDatingMonths_dts": [
+            "1981-11-01T00:00:00Z",
+            "1981-12-01T00:00:00Z",
+            "1982-01-01T00:00:00Z",
+            "1982-02-01T00:00:00Z",
+            "1982-03-01T00:00:00Z",
+            "1982-04-01T00:00:00Z",
+            "1982-05-01T00:00:00Z",
+            "1982-06-01T00:00:00Z",
+            "1982-07-01T00:00:00Z",
+            "1982-08-01T00:00:00Z",
+            "1982-09-01T00:00:00Z",
+            "1982-10-01T00:00:00Z",
+            "1982-11-01T00:00:00Z",
+            "1982-12-01T00:00:00Z",
+            "1983-01-01T00:00:00Z",
+            "1983-02-01T00:00:00Z",
+            "1983-03-01T00:00:00Z",
+            "1983-04-01T00:00:00Z",
+            "1983-05-01T00:00:00Z",
+            "1983-06-01T00:00:00Z",
+            "1983-07-01T00:00:00Z",
+            "1983-08-01T00:00:00Z",
+            "1983-09-01T00:00:00Z",
+            "1983-10-01T00:00:00Z",
+            "1983-11-01T00:00:00Z",
+            "1983-12-01T00:00:00Z",
+            "1984-01-01T00:00:00Z",
+            "1984-02-01T00:00:00Z",
+            "1984-03-01T00:00:00Z",
+            "1984-04-01T00:00:00Z",
+            "1984-05-01T00:00:00Z",
+            "1984-06-01T00:00:00Z",
+            "1984-07-01T00:00:00Z",
+            "1984-08-01T00:00:00Z",
+            "1984-09-01T00:00:00Z",
+            "1984-10-01T00:00:00Z",
+            "1984-11-01T00:00:00Z",
+            "1984-12-01T00:00:00Z",
+            "1985-01-01T00:00:00Z",
+            "1985-02-01T00:00:00Z",
+            "1985-03-01T00:00:00Z",
+            "1985-04-01T00:00:00Z",
+            "1985-05-01T00:00:00Z",
+            "1985-06-01T00:00:00Z",
+            "1985-07-01T00:00:00Z",
+            "1985-08-01T00:00:00Z"
+        ],
+        "is_scan_s": "0",
+        "is_scan_t": "0",
+        "is_scan_ss": [
+            "0"
+        ],
+        "_version_": 1703901912274829312
+    }
+]

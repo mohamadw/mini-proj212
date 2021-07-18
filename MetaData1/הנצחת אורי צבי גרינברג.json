@@ -1,0 +1,270 @@
+[
+    {
+        "product_id_i": 587045,
+        "type_i": 1,
+        "lang_code_s": "en",
+        "name": "File",
+        "sku": "0b071706807f1b3d",
+        "GroupFamilyName_s": "13325-0b071706807f1b3d",
+        "modification_timestamp_tdt": "2020-05-31T20:05:36Z",
+        "modification_timestamp_s": "2020-05-31 20:05:36",
+        "group_id_i": 13325,
+        "product_code_t": "0b071706807f1b3d",
+        "FamilyName_t": "0b071706807f1b3d",
+        "objHier_objectType_t": "FILE",
+        "objHier_isFictiveItem_t": "false",
+        "objHier_isDeleted_t": "false",
+        "objDesc_objectName_t": "הנצחת אורי צבי גרינברג",
+        "objDesc_objectName_tphon": "הנצחת אורי צבי גרינברג",
+        "objDesc_objectName_e_t": "הנצחת אורי צבי גרינברג",
+        "objDesc_objectDesc_t": "התכתבות בנוגע לבקשה לקבוע שם יישוב על-שם הסופר והמשורר אורי צבי גרינברג",
+        "objDesc_objectDesc_tar": "התכתבות בנוגע לבקשה לקבוע שם יישוב על-שם הסופר והמשורר אורי צבי גרינברג",
+        "objDesc_objectDesc_tfr": "התכתבות בנוגע לבקשה לקבוע שם יישוב על-שם הסופר והמשורר אורי צבי גרינברג",
+        "objDesc_objectDesc_e_t": "התכתבות בנוגע לבקשה לקבוע שם יישוב על-שם הסופר והמשורר אורי צבי גרינברג",
+        "objAttr_isGsaFeedEnabled_t": "true",
+        "objDate_datingPeriodStart_t": "04/03/2003",
+        "objDate_datingPeriodStartYear_t": "2003",
+        "objDate_datingPeriodEnd_t": "13/03/2003",
+        "objDate_datingPeriodEndYear_t": "2003",
+        "objHier_archiveId_t": "0b07170680020246",
+        "objHier_archiveName_t": "ועדת השמות הממשלתית",
+        "objHier_archiveName_e_t": "ועדת השמות הממשלתית",
+        "objHier_parentObjectId_t": "0b07170680359f2d",
+        "objAttr_archiveEditDate_t": "2020-05-24",
+        "objAttr_materialType_t": "תיק מסמכים",
+        "objAttr_mediaType_t": "מסמך",
+        "objAttr_mediaTypeOrig_t": "תיק מסמכים",
+        "addAttr_objectName_t": "ועדת השמות הממשלתית",
+        "addAttr_orgTree_t": "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית",
+        "addAttr_orgTree_e_t": "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית",
+        "addAttr_type_t": "תיק מסמכים",
+        "objHier_objectReference_t": "ISA-PMO-GovNamesCommittee-000d7bh",
+        "addAttr_statusChasifa_t": "גלוי",
+        "addAttr_tikOldNumber_t": "ג - 17 / 12407",
+        "addAttr_tikOldNumber_e_t": "ג - 17 / 12407",
+        "addAttr_matsa_t": "עבר דיגיטציה",
+        "addAttr_taarichMiuiadHashifa_t": "2018",
+        "addAttr_mezaheh_t": "ISA-PMO-GovNamesCommittee-000d7bh",
+        "addAttr_mezaheh_e_t": "ISA-PMO-GovNamesCommittee-000d7bh",
+        "addAttr_rimonObjectName_t": "הנצחת אורי צבי גרינברג",
+        "objDate_datingPeriodStartMonth_t": "03",
+        "objDate_datingPeriodEndMonth_t": "03",
+        "task_t": "1597",
+        "altRef_relationType_t": "סימול מקורי",
+        "contentEntity_t": "0b07170680020246|0b07170684f73f23",
+        "is_scan_t": "1",
+        "product_code_s": "0b071706807f1b3d",
+        "FamilyName_s": "0b071706807f1b3d",
+        "objHier_objectType_s": "FILE",
+        "objHier_isFictiveItem_s": "false",
+        "objHier_isDeleted_s": "false",
+        "objDesc_objectName_s": "הנצחת אורי צבי גרינברג",
+        "objDesc_objectDesc_s": "התכתבות בנוגע לבקשה לקבוע שם יישוב על-שם הסופר והמשורר אורי צבי גרינברג",
+        "objAttr_isGsaFeedEnabled_s": "true",
+        "objDate_datingPeriodStart_s": "04/03/2003",
+        "objDate_datingPeriodStartYear_s": "2003",
+        "objDate_datingPeriodEnd_s": "13/03/2003",
+        "objDate_datingPeriodEndYear_s": "2003",
+        "objHier_archiveId_s": "0b07170680020246",
+        "objHier_archiveName_s": "ועדת השמות הממשלתית",
+        "objHier_parentObjectId_s": "0b07170680359f2d",
+        "objAttr_archiveEditDate_s": "2020-05-24",
+        "objAttr_materialType_s": "תיק מסמכים",
+        "objAttr_mediaType_s": "מסמך",
+        "objAttr_mediaTypeOrig_s": "תיק מסמכים",
+        "addAttr_objectName_s": "ועדת השמות הממשלתית",
+        "addAttr_orgTree_s": "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית",
+        "addAttr_type_s": "תיק מסמכים",
+        "objHier_objectReference_s": "ISA-PMO-GovNamesCommittee-000d7bh",
+        "addAttr_statusChasifa_s": "גלוי",
+        "addAttr_tikOldNumber_s": "ג - 17 / 12407",
+        "addAttr_matsa_s": "עבר דיגיטציה",
+        "addAttr_taarichMiuiadHashifa_s": "2018",
+        "addAttr_mezaheh_s": "ISA-PMO-GovNamesCommittee-000d7bh",
+        "addAttr_rimonObjectName_s": "הנצחת אורי צבי גרינברג",
+        "objDate_datingPeriodStartMonth_s": "03",
+        "objDate_datingPeriodEndMonth_s": "03",
+        "task_s": "1597",
+        "altRef_relationType_s": "סימול מקורי",
+        "contentEntity_s": "0b07170680020246|0b07170684f73f23",
+        "is_scan_s": "1",
+        "product_code_ss": [
+            "0b071706807f1b3d"
+        ],
+        "FamilyName_ss": [
+            "0b071706807f1b3d"
+        ],
+        "objHier_objectType_ss": [
+            "FILE"
+        ],
+        "objHier_isFictiveItem_ss": [
+            "false"
+        ],
+        "objHier_isDeleted_ss": [
+            "false"
+        ],
+        "objDesc_objectName_ss": [
+            "הנצחת אורי צבי גרינברג"
+        ],
+        "objDesc_objectDesc_ss": [
+            "התכתבות בנוגע לבקשה לקבוע שם יישוב על-שם הסופר והמשורר אורי צבי גרינברג"
+        ],
+        "objAttr_isGsaFeedEnabled_ss": [
+            "true"
+        ],
+        "objDate_datingPeriodStart_ss": [
+            "04/03/2003"
+        ],
+        "objDate_datingPeriodStartYear_ss": [
+            "2003"
+        ],
+        "objDate_datingPeriodEnd_ss": [
+            "13/03/2003"
+        ],
+        "objDate_datingPeriodEndYear_ss": [
+            "2003"
+        ],
+        "objHier_archiveId_ss": [
+            "0b07170680020246"
+        ],
+        "objHier_archiveName_ss": [
+            "ועדת השמות הממשלתית"
+        ],
+        "objHier_parentObjectId_ss": [
+            "0b07170680359f2d"
+        ],
+        "objAttr_archiveEditDate_ss": [
+            "2020-05-24"
+        ],
+        "objAttr_materialType_ss": [
+            "תיק מסמכים"
+        ],
+        "objAttr_mediaType_ss": [
+            "מסמך"
+        ],
+        "objAttr_mediaTypeOrig_ss": [
+            "תיק מסמכים"
+        ],
+        "addAttr_objectName_ss": [
+            "ועדת השמות הממשלתית"
+        ],
+        "addAttr_orgTree_ss": [
+            "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית"
+        ],
+        "addAttr_type_ss": [
+            "תיק מסמכים"
+        ],
+        "objHier_objectReference_ss": [
+            "ISA-PMO-GovNamesCommittee-000d7bh"
+        ],
+        "addAttr_statusChasifa_ss": [
+            "גלוי"
+        ],
+        "addAttr_tikOldNumber_ss": [
+            "ג - 17 / 12407"
+        ],
+        "addAttr_matsa_ss": [
+            "עבר דיגיטציה"
+        ],
+        "addAttr_taarichMiuiadHashifa_ss": [
+            "2018"
+        ],
+        "addAttr_mezaheh_ss": [
+            "ISA-PMO-GovNamesCommittee-000d7bh"
+        ],
+        "addAttr_rimonObjectName_ss": [
+            "הנצחת אורי צבי גרינברג"
+        ],
+        "objDate_datingPeriodStartMonth_ss": [
+            "03"
+        ],
+        "objDate_datingPeriodEndMonth_ss": [
+            "03"
+        ],
+        "task_ss": [
+            "1597"
+        ],
+        "altRef_relationType_ss": [
+            "סימול מקורי"
+        ],
+        "contentEntity_ss": [
+            "0b07170680020246",
+            "0b07170684f73f23"
+        ],
+        "is_scan_ss": [
+            "1"
+        ],
+        "solr_index_timestamp_tdt": "2021-05-11T10:57:04Z",
+        "solr_index_timestamp_s": "2021-05-11 10:57:04",
+        "file_has_items_s": "",
+        "organizations_s": "ועדת השמות הממשלתית",
+        "organizations_t": "ועדת השמות הממשלתית",
+        "organizations_ss": [
+            "ועדת השמות הממשלתית"
+        ],
+        "enrichment_s": "אורי צבי גרינברג (1896 - 1981)|אורי צבי טור מלכא | א.צ. גרינברג | אצ\"ג",
+        "enrichment_t": "אורי צבי גרינברג (1896 - 1981)|אורי צבי טור מלכא | א.צ. גרינברג | אצ\"ג",
+        "enrichment_e_t": "אורי צבי גרינברג (1896 - 1981)|אורי צבי טור מלכא | א.צ. גרינברג | אצ\"ג",
+        "enrichment_ss": [
+            "אורי צבי גרינברג (1896 - 1981)",
+            "אורי צבי טור מלכא ",
+            " א.צ. גרינברג ",
+            " אצ\"ג"
+        ],
+        "enrichment_1_s": "אורי צבי גרינברג (1896 - 1981)|אורי צבי טור מלכא | א.צ. גרינברג | אצ\"ג",
+        "enrichment_1_t": "אורי צבי גרינברג (1896 - 1981)|אורי צבי טור מלכא | א.צ. גרינברג | אצ\"ג",
+        "enrichment_1_ss": [
+            "אורי צבי גרינברג (1896 - 1981)",
+            "אורי צבי טור מלכא ",
+            " א.צ. גרינברג ",
+            " אצ\"ג"
+        ],
+        "enrichment_2_s": "אורי צבי גרינברג (1896 - 1981)|אורי צבי טור מלכא | א.צ. גרינברג | אצ\"ג",
+        "enrichment_2_t": "אורי צבי גרינברג (1896 - 1981)|אורי צבי טור מלכא | א.צ. גרינברג | אצ\"ג",
+        "enrichment_2_ss": [
+            "אורי צבי גרינברג (1896 - 1981)",
+            "אורי צבי טור מלכא ",
+            " א.צ. גרינברג ",
+            " אצ\"ג"
+        ],
+        "event_s": "",
+        "event_t": "",
+        "subject_s": "",
+        "subject_t": "",
+        "place_s": "",
+        "place_t": "",
+        "person_s": "אורי צבי גרינברג (1896 - 1981)",
+        "person_t": "אורי צבי גרינברג (1896 - 1981)",
+        "person_tphon": "אורי צבי גרינברג (1896 - 1981)",
+        "person_ss": [
+            "אורי צבי גרינברג (1896 - 1981)"
+        ],
+        "project_s": "",
+        "project_t": "",
+        "attachment_content_t": "",
+        "attachment_content_tar": "",
+        "attachment_content_tfr": "",
+        "attachment_content_e_t": "",
+        "group_id_is": [
+            1
+        ],
+        "objectDatingYear_ss": [
+            "2003",
+            "2003"
+        ],
+        "objDesc_objectDesc_short_s": "התכתבות בנוגע לבקשה לקבוע שם יישוב על-שם הסופר והמשורר אורי צבי גרינברג",
+        "sig_media_type_s": "תיק",
+        "sig_media_type_ss": [
+            "תיק"
+        ],
+        "attachment_url_s": "Archives/0b07170680020246/Files/0b071706807f1b3d/00071706.81.D3.8E.15.pdf",
+        "objHier_attachment_attachmentType_s": "pdf",
+        "objectDatingMonths_ss": [
+            "03/2003"
+        ],
+        "objectDatingMonths_dts": [
+            "2003-03-01T00:00:00Z"
+        ],
+        "_version_": 1703902185663758336
+    }
+]

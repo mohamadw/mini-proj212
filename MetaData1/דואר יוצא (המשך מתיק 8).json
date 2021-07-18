@@ -1,0 +1,298 @@
+[
+    {
+        "product_id_i": 547381,
+        "type_i": 1,
+        "lang_code_s": "en",
+        "name": "File",
+        "sku": "0b071706807f63d5",
+        "GroupFamilyName_s": "13325-0b071706807f63d5",
+        "modification_timestamp_tdt": "2020-05-31T20:01:09Z",
+        "modification_timestamp_s": "2020-05-31 20:01:09",
+        "group_id_i": 13325,
+        "product_code_t": "0b071706807f63d5",
+        "FamilyName_t": "0b071706807f63d5",
+        "objHier_objectType_t": "FILE",
+        "objHier_isFictiveItem_t": "false",
+        "objHier_isDeleted_t": "false",
+        "objDesc_objectName_t": "דואר יוצא (המשך מתיק 8)",
+        "objDesc_objectName_tphon": "דואר יוצא (המשך מתיק 8)",
+        "objDesc_objectName_e_t": "דואר יוצא (המשך מתיק 8)",
+        "objDesc_objectDesc_t": "שאלות ותשובות בקשר לשמות, שינויי שמות יישובים, תעתיקי שמות",
+        "objDesc_objectDesc_tar": "שאלות ותשובות בקשר לשמות, שינויי שמות יישובים, תעתיקי שמות",
+        "objDesc_objectDesc_tfr": "שאלות ותשובות בקשר לשמות, שינויי שמות יישובים, תעתיקי שמות",
+        "objDesc_objectDesc_e_t": "שאלות ותשובות בקשר לשמות, שינויי שמות יישובים, תעתיקי שמות",
+        "objAttr_isGsaFeedEnabled_t": "true",
+        "objDate_datingPeriodStart_t": "01/04/1996",
+        "objDate_datingPeriodStartYear_t": "1996",
+        "objDate_datingPeriodEnd_t": "31/05/1998",
+        "objDate_datingPeriodEndYear_t": "1998",
+        "objHier_archiveId_t": "0b07170680020246",
+        "objHier_archiveName_t": "ועדת השמות הממשלתית",
+        "objHier_archiveName_e_t": "ועדת השמות הממשלתית",
+        "objHier_parentObjectId_t": "0b07170680359f2d",
+        "objAttr_archiveEditDate_t": "2020-05-24",
+        "objAttr_materialType_t": "תיק מסמכים",
+        "objAttr_mediaType_t": "מסמך",
+        "objAttr_mediaTypeOrig_t": "תיק מסמכים",
+        "addAttr_objectName_t": "ועדת השמות הממשלתית",
+        "addAttr_orgTree_t": "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית",
+        "addAttr_orgTree_e_t": "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית",
+        "addAttr_type_t": "תיק מסמכים",
+        "objHier_objectReference_t": "ISA-PMO-GovNamesCommittee-000d940",
+        "addAttr_statusChasifa_t": "חסוי",
+        "addAttr_tikOldNumber_t": "ג - 9 / 12423",
+        "addAttr_tikOldNumber_e_t": "ג - 9 / 12423",
+        "addAttr_matsa_t": "עבר דיגיטציה",
+        "addAttr_taarichMiuiadHashifa_t": "2013",
+        "addAttr_mezaheh_t": "ISA-PMO-GovNamesCommittee-000d940",
+        "addAttr_mezaheh_e_t": "ISA-PMO-GovNamesCommittee-000d940",
+        "addAttr_rimonObjectName_t": "דואר יוצא (המשך מתיק 8)",
+        "objDate_datingPeriodStartMonth_t": "04",
+        "objDate_datingPeriodEndMonth_t": "05",
+        "task_t": "1597",
+        "altRef_relationType_t": "סימול מקורי",
+        "contentEntity_t": "0b07170680020246",
+        "product_code_s": "0b071706807f63d5",
+        "FamilyName_s": "0b071706807f63d5",
+        "objHier_objectType_s": "FILE",
+        "objHier_isFictiveItem_s": "false",
+        "objHier_isDeleted_s": "false",
+        "objDesc_objectName_s": "דואר יוצא (המשך מתיק 8)",
+        "objDesc_objectDesc_s": "שאלות ותשובות בקשר לשמות, שינויי שמות יישובים, תעתיקי שמות",
+        "objAttr_isGsaFeedEnabled_s": "true",
+        "objDate_datingPeriodStart_s": "01/04/1996",
+        "objDate_datingPeriodStartYear_s": "1996",
+        "objDate_datingPeriodEnd_s": "31/05/1998",
+        "objDate_datingPeriodEndYear_s": "1998",
+        "objHier_archiveId_s": "0b07170680020246",
+        "objHier_archiveName_s": "ועדת השמות הממשלתית",
+        "objHier_parentObjectId_s": "0b07170680359f2d",
+        "objAttr_archiveEditDate_s": "2020-05-24",
+        "objAttr_materialType_s": "תיק מסמכים",
+        "objAttr_mediaType_s": "מסמך",
+        "objAttr_mediaTypeOrig_s": "תיק מסמכים",
+        "addAttr_objectName_s": "ועדת השמות הממשלתית",
+        "addAttr_orgTree_s": "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית",
+        "addAttr_type_s": "תיק מסמכים",
+        "objHier_objectReference_s": "ISA-PMO-GovNamesCommittee-000d940",
+        "addAttr_statusChasifa_s": "חסוי",
+        "addAttr_tikOldNumber_s": "ג - 9 / 12423",
+        "addAttr_matsa_s": "עבר דיגיטציה",
+        "addAttr_taarichMiuiadHashifa_s": "2013",
+        "addAttr_mezaheh_s": "ISA-PMO-GovNamesCommittee-000d940",
+        "addAttr_rimonObjectName_s": "דואר יוצא (המשך מתיק 8)",
+        "objDate_datingPeriodStartMonth_s": "04",
+        "objDate_datingPeriodEndMonth_s": "05",
+        "task_s": "1597",
+        "altRef_relationType_s": "סימול מקורי",
+        "contentEntity_s": "0b07170680020246",
+        "product_code_ss": [
+            "0b071706807f63d5"
+        ],
+        "FamilyName_ss": [
+            "0b071706807f63d5"
+        ],
+        "objHier_objectType_ss": [
+            "FILE"
+        ],
+        "objHier_isFictiveItem_ss": [
+            "false"
+        ],
+        "objHier_isDeleted_ss": [
+            "false"
+        ],
+        "objDesc_objectName_ss": [
+            "דואר יוצא (המשך מתיק 8)"
+        ],
+        "objDesc_objectDesc_ss": [
+            "שאלות ותשובות בקשר לשמות, שינויי שמות יישובים, תעתיקי שמות"
+        ],
+        "objAttr_isGsaFeedEnabled_ss": [
+            "true"
+        ],
+        "objDate_datingPeriodStart_ss": [
+            "01/04/1996"
+        ],
+        "objDate_datingPeriodStartYear_ss": [
+            "1996"
+        ],
+        "objDate_datingPeriodEnd_ss": [
+            "31/05/1998"
+        ],
+        "objDate_datingPeriodEndYear_ss": [
+            "1998"
+        ],
+        "objHier_archiveId_ss": [
+            "0b07170680020246"
+        ],
+        "objHier_archiveName_ss": [
+            "ועדת השמות הממשלתית"
+        ],
+        "objHier_parentObjectId_ss": [
+            "0b07170680359f2d"
+        ],
+        "objAttr_archiveEditDate_ss": [
+            "2020-05-24"
+        ],
+        "objAttr_materialType_ss": [
+            "תיק מסמכים"
+        ],
+        "objAttr_mediaType_ss": [
+            "מסמך"
+        ],
+        "objAttr_mediaTypeOrig_ss": [
+            "תיק מסמכים"
+        ],
+        "addAttr_objectName_ss": [
+            "ועדת השמות הממשלתית"
+        ],
+        "addAttr_orgTree_ss": [
+            "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית"
+        ],
+        "addAttr_type_ss": [
+            "תיק מסמכים"
+        ],
+        "objHier_objectReference_ss": [
+            "ISA-PMO-GovNamesCommittee-000d940"
+        ],
+        "addAttr_statusChasifa_ss": [
+            "חסוי"
+        ],
+        "addAttr_tikOldNumber_ss": [
+            "ג - 9 / 12423"
+        ],
+        "addAttr_matsa_ss": [
+            "עבר דיגיטציה"
+        ],
+        "addAttr_taarichMiuiadHashifa_ss": [
+            "2013"
+        ],
+        "addAttr_mezaheh_ss": [
+            "ISA-PMO-GovNamesCommittee-000d940"
+        ],
+        "addAttr_rimonObjectName_ss": [
+            "דואר יוצא (המשך מתיק 8)"
+        ],
+        "objDate_datingPeriodStartMonth_ss": [
+            "04"
+        ],
+        "objDate_datingPeriodEndMonth_ss": [
+            "05"
+        ],
+        "task_ss": [
+            "1597"
+        ],
+        "altRef_relationType_ss": [
+            "סימול מקורי"
+        ],
+        "contentEntity_ss": [
+            "0b07170680020246"
+        ],
+        "solr_index_timestamp_tdt": "2021-05-11T10:52:31Z",
+        "solr_index_timestamp_s": "2021-05-11 10:52:31",
+        "file_has_items_s": "",
+        "organizations_s": "ועדת השמות הממשלתית",
+        "organizations_t": "ועדת השמות הממשלתית",
+        "organizations_ss": [
+            "ועדת השמות הממשלתית"
+        ],
+        "enrichment_s": "",
+        "enrichment_t": "",
+        "enrichment_e_t": "",
+        "enrichment_1_s": "",
+        "enrichment_1_t": "",
+        "enrichment_2_s": "",
+        "enrichment_2_t": "",
+        "event_s": "",
+        "event_t": "",
+        "subject_s": "",
+        "subject_t": "",
+        "place_s": "",
+        "place_t": "",
+        "person_s": "",
+        "person_t": "",
+        "person_tphon": "",
+        "project_s": "",
+        "project_t": "",
+        "attachment_content_t": "",
+        "attachment_content_tar": "",
+        "attachment_content_tfr": "",
+        "attachment_content_e_t": "",
+        "group_id_is": [
+            1
+        ],
+        "objectDatingYear_ss": [
+            "1996",
+            "1998"
+        ],
+        "objDesc_objectDesc_short_s": "שאלות ותשובות בקשר לשמות, שינויי שמות יישובים, תעתיקי שמות",
+        "sig_media_type_s": "תיק",
+        "sig_media_type_ss": [
+            "תיק"
+        ],
+        "attachment_url_s": "n",
+        "objHier_attachment_attachmentType_s": "n",
+        "objectDatingMonths_ss": [
+            "04/1996",
+            "05/1996",
+            "06/1996",
+            "07/1996",
+            "08/1996",
+            "09/1996",
+            "10/1996",
+            "11/1996",
+            "12/1996",
+            "01/1997",
+            "02/1997",
+            "03/1997",
+            "04/1997",
+            "05/1997",
+            "06/1997",
+            "07/1997",
+            "08/1997",
+            "09/1997",
+            "10/1997",
+            "11/1997",
+            "12/1997",
+            "01/1998",
+            "02/1998",
+            "03/1998",
+            "04/1998",
+            "05/1998"
+        ],
+        "objectDatingMonths_dts": [
+            "1996-04-01T00:00:00Z",
+            "1996-05-01T00:00:00Z",
+            "1996-06-01T00:00:00Z",
+            "1996-07-01T00:00:00Z",
+            "1996-08-01T00:00:00Z",
+            "1996-09-01T00:00:00Z",
+            "1996-10-01T00:00:00Z",
+            "1996-11-01T00:00:00Z",
+            "1996-12-01T00:00:00Z",
+            "1997-01-01T00:00:00Z",
+            "1997-02-01T00:00:00Z",
+            "1997-03-01T00:00:00Z",
+            "1997-04-01T00:00:00Z",
+            "1997-05-01T00:00:00Z",
+            "1997-06-01T00:00:00Z",
+            "1997-07-01T00:00:00Z",
+            "1997-08-01T00:00:00Z",
+            "1997-09-01T00:00:00Z",
+            "1997-10-01T00:00:00Z",
+            "1997-11-01T00:00:00Z",
+            "1997-12-01T00:00:00Z",
+            "1998-01-01T00:00:00Z",
+            "1998-02-01T00:00:00Z",
+            "1998-03-01T00:00:00Z",
+            "1998-04-01T00:00:00Z",
+            "1998-05-01T00:00:00Z"
+        ],
+        "is_scan_s": "0",
+        "is_scan_t": "0",
+        "is_scan_ss": [
+            "0"
+        ],
+        "_version_": 1703900088558944256
+    }
+]

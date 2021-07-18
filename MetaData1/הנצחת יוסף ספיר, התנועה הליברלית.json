@@ -1,0 +1,273 @@
+[
+    {
+        "product_id_i": 558347,
+        "type_i": 1,
+        "lang_code_s": "en",
+        "name": "File",
+        "sku": "0b071706808075ce",
+        "GroupFamilyName_s": "13325-0b071706808075ce",
+        "modification_timestamp_tdt": "2020-05-31T20:02:20Z",
+        "modification_timestamp_s": "2020-05-31 20:02:20",
+        "group_id_i": 13325,
+        "product_code_t": "0b071706808075ce",
+        "FamilyName_t": "0b071706808075ce",
+        "objHier_objectType_t": "FILE",
+        "objHier_isFictiveItem_t": "false",
+        "objHier_isDeleted_t": "false",
+        "objDesc_objectName_t": "הנצחת יוסף ספיר, התנועה הליברלית",
+        "objDesc_objectName_tphon": "הנצחת יוסף ספיר, התנועה הליברלית",
+        "objDesc_objectName_e_t": "הנצחת יוסף ספיר, התנועה הליברלית",
+        "objDesc_objectDesc_t": "בקשה של \"מצדה\" - תנועת הנוער של הציונים הכלליים - לקרוא ליישוב בשם יוסף ספיר ז\"ל",
+        "objDesc_objectDesc_tar": "בקשה של \"מצדה\" - תנועת הנוער של הציונים הכלליים - לקרוא ליישוב בשם יוסף ספיר ז\"ל",
+        "objDesc_objectDesc_tfr": "בקשה של \"מצדה\" - תנועת הנוער של הציונים הכלליים - לקרוא ליישוב בשם יוסף ספיר ז\"ל",
+        "objDesc_objectDesc_e_t": "בקשה של \"מצדה\" - תנועת הנוער של הציונים הכלליים - לקרוא ליישוב בשם יוסף ספיר ז\"ל",
+        "objAttr_isGsaFeedEnabled_t": "true",
+        "objDate_datingPeriodStart_t": "06/06/1974",
+        "objDate_datingPeriodStartYear_t": "1974",
+        "objDate_datingPeriodEnd_t": "07/11/1974",
+        "objDate_datingPeriodEndYear_t": "1974",
+        "objHier_archiveId_t": "0b07170680020246",
+        "objHier_archiveName_t": "ועדת השמות הממשלתית",
+        "objHier_archiveName_e_t": "ועדת השמות הממשלתית",
+        "objHier_parentObjectId_t": "0b07170680359f2d",
+        "objAttr_archiveEditDate_t": "2020-05-24",
+        "objAttr_materialType_t": "תיק מסמכים",
+        "objAttr_mediaType_t": "מסמך",
+        "objAttr_mediaTypeOrig_t": "תיק מסמכים",
+        "addAttr_objectName_t": "ועדת השמות הממשלתית",
+        "addAttr_orgTree_t": "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית",
+        "addAttr_orgTree_e_t": "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית",
+        "addAttr_type_t": "תיק מסמכים",
+        "objHier_objectReference_t": "ISA-PMO-GovNamesCommittee-000dfrz",
+        "addAttr_statusChasifa_t": "גלוי",
+        "addAttr_tikOldNumber_t": "ג - 11 / 12410",
+        "addAttr_tikOldNumber_e_t": "ג - 11 / 12410",
+        "addAttr_matsa_t": "עבר דיגיטציה",
+        "addAttr_taarichMiuiadHashifa_t": "1989",
+        "addAttr_mezaheh_t": "ISA-PMO-GovNamesCommittee-000dfrz",
+        "addAttr_mezaheh_e_t": "ISA-PMO-GovNamesCommittee-000dfrz",
+        "addAttr_rimonObjectName_t": "הנצחת יוסף ספיר, התנועה הליברלית",
+        "objDate_datingPeriodStartMonth_t": "06",
+        "objDate_datingPeriodEndMonth_t": "11",
+        "task_t": "1597",
+        "altRef_relationType_t": "סימול מקורי",
+        "contentEntity_t": "0b07170680020246|0b07170680303590|0b07170681115d6e",
+        "is_scan_t": "1",
+        "product_code_s": "0b071706808075ce",
+        "FamilyName_s": "0b071706808075ce",
+        "objHier_objectType_s": "FILE",
+        "objHier_isFictiveItem_s": "false",
+        "objHier_isDeleted_s": "false",
+        "objDesc_objectName_s": "הנצחת יוסף ספיר, התנועה הליברלית",
+        "objDesc_objectDesc_s": "בקשה של \"מצדה\" - תנועת הנוער של הציונים הכלליים - לקרוא ליישוב בשם יוסף ספיר ז\"ל",
+        "objAttr_isGsaFeedEnabled_s": "true",
+        "objDate_datingPeriodStart_s": "06/06/1974",
+        "objDate_datingPeriodStartYear_s": "1974",
+        "objDate_datingPeriodEnd_s": "07/11/1974",
+        "objDate_datingPeriodEndYear_s": "1974",
+        "objHier_archiveId_s": "0b07170680020246",
+        "objHier_archiveName_s": "ועדת השמות הממשלתית",
+        "objHier_parentObjectId_s": "0b07170680359f2d",
+        "objAttr_archiveEditDate_s": "2020-05-24",
+        "objAttr_materialType_s": "תיק מסמכים",
+        "objAttr_mediaType_s": "מסמך",
+        "objAttr_mediaTypeOrig_s": "תיק מסמכים",
+        "addAttr_objectName_s": "ועדת השמות הממשלתית",
+        "addAttr_orgTree_s": "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית",
+        "addAttr_type_s": "תיק מסמכים",
+        "objHier_objectReference_s": "ISA-PMO-GovNamesCommittee-000dfrz",
+        "addAttr_statusChasifa_s": "גלוי",
+        "addAttr_tikOldNumber_s": "ג - 11 / 12410",
+        "addAttr_matsa_s": "עבר דיגיטציה",
+        "addAttr_taarichMiuiadHashifa_s": "1989",
+        "addAttr_mezaheh_s": "ISA-PMO-GovNamesCommittee-000dfrz",
+        "addAttr_rimonObjectName_s": "הנצחת יוסף ספיר, התנועה הליברלית",
+        "objDate_datingPeriodStartMonth_s": "06",
+        "objDate_datingPeriodEndMonth_s": "11",
+        "task_s": "1597",
+        "altRef_relationType_s": "סימול מקורי",
+        "contentEntity_s": "0b07170680020246|0b07170680303590|0b07170681115d6e",
+        "is_scan_s": "1",
+        "product_code_ss": [
+            "0b071706808075ce"
+        ],
+        "FamilyName_ss": [
+            "0b071706808075ce"
+        ],
+        "objHier_objectType_ss": [
+            "FILE"
+        ],
+        "objHier_isFictiveItem_ss": [
+            "false"
+        ],
+        "objHier_isDeleted_ss": [
+            "false"
+        ],
+        "objDesc_objectName_ss": [
+            "הנצחת יוסף ספיר, התנועה הליברלית"
+        ],
+        "objDesc_objectDesc_ss": [
+            "בקשה של \"מצדה\" - תנועת הנוער של הציונים הכלליים - לקרוא ליישוב בשם יוסף ספיר ז\"ל"
+        ],
+        "objAttr_isGsaFeedEnabled_ss": [
+            "true"
+        ],
+        "objDate_datingPeriodStart_ss": [
+            "06/06/1974"
+        ],
+        "objDate_datingPeriodStartYear_ss": [
+            "1974"
+        ],
+        "objDate_datingPeriodEnd_ss": [
+            "07/11/1974"
+        ],
+        "objDate_datingPeriodEndYear_ss": [
+            "1974"
+        ],
+        "objHier_archiveId_ss": [
+            "0b07170680020246"
+        ],
+        "objHier_archiveName_ss": [
+            "ועדת השמות הממשלתית"
+        ],
+        "objHier_parentObjectId_ss": [
+            "0b07170680359f2d"
+        ],
+        "objAttr_archiveEditDate_ss": [
+            "2020-05-24"
+        ],
+        "objAttr_materialType_ss": [
+            "תיק מסמכים"
+        ],
+        "objAttr_mediaType_ss": [
+            "מסמך"
+        ],
+        "objAttr_mediaTypeOrig_ss": [
+            "תיק מסמכים"
+        ],
+        "addAttr_objectName_ss": [
+            "ועדת השמות הממשלתית"
+        ],
+        "addAttr_orgTree_ss": [
+            "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית"
+        ],
+        "addAttr_type_ss": [
+            "תיק מסמכים"
+        ],
+        "objHier_objectReference_ss": [
+            "ISA-PMO-GovNamesCommittee-000dfrz"
+        ],
+        "addAttr_statusChasifa_ss": [
+            "גלוי"
+        ],
+        "addAttr_tikOldNumber_ss": [
+            "ג - 11 / 12410"
+        ],
+        "addAttr_matsa_ss": [
+            "עבר דיגיטציה"
+        ],
+        "addAttr_taarichMiuiadHashifa_ss": [
+            "1989"
+        ],
+        "addAttr_mezaheh_ss": [
+            "ISA-PMO-GovNamesCommittee-000dfrz"
+        ],
+        "addAttr_rimonObjectName_ss": [
+            "הנצחת יוסף ספיר, התנועה הליברלית"
+        ],
+        "objDate_datingPeriodStartMonth_ss": [
+            "06"
+        ],
+        "objDate_datingPeriodEndMonth_ss": [
+            "11"
+        ],
+        "task_ss": [
+            "1597"
+        ],
+        "altRef_relationType_ss": [
+            "סימול מקורי"
+        ],
+        "contentEntity_ss": [
+            "0b07170680020246",
+            "0b07170680303590",
+            "0b07170681115d6e"
+        ],
+        "is_scan_ss": [
+            "1"
+        ],
+        "solr_index_timestamp_tdt": "2021-05-11T10:53:47Z",
+        "solr_index_timestamp_s": "2021-05-11 10:53:47",
+        "file_has_items_s": "",
+        "organizations_s": "הציונים הכלליים|ועדת השמות הממשלתית",
+        "organizations_t": "הציונים הכלליים|ועדת השמות הממשלתית",
+        "organizations_ss": [
+            "הציונים הכלליים",
+            "ועדת השמות הממשלתית"
+        ],
+        "enrichment_s": "יוסף ספיר (1902 - 1972)",
+        "enrichment_t": "יוסף ספיר (1902 - 1972)",
+        "enrichment_e_t": "יוסף ספיר (1902 - 1972)",
+        "enrichment_ss": [
+            "יוסף ספיר (1902 - 1972)"
+        ],
+        "enrichment_1_s": "יוסף ספיר (1902 - 1972)",
+        "enrichment_1_t": "יוסף ספיר (1902 - 1972)",
+        "enrichment_1_ss": [
+            "יוסף ספיר (1902 - 1972)"
+        ],
+        "enrichment_2_s": "יוסף ספיר (1902 - 1972)",
+        "enrichment_2_t": "יוסף ספיר (1902 - 1972)",
+        "enrichment_2_ss": [
+            "יוסף ספיר (1902 - 1972)"
+        ],
+        "event_s": "",
+        "event_t": "",
+        "subject_s": "",
+        "subject_t": "",
+        "place_s": "",
+        "place_t": "",
+        "person_s": "יוסף ספיר (1902 - 1972)",
+        "person_t": "יוסף ספיר (1902 - 1972)",
+        "person_tphon": "יוסף ספיר (1902 - 1972)",
+        "person_ss": [
+            "יוסף ספיר (1902 - 1972)"
+        ],
+        "project_s": "",
+        "project_t": "",
+        "attachment_content_t": "",
+        "attachment_content_tar": "",
+        "attachment_content_tfr": "",
+        "attachment_content_e_t": "",
+        "group_id_is": [
+            1
+        ],
+        "objectDatingYear_ss": [
+            "1974",
+            "1974"
+        ],
+        "objDesc_objectDesc_short_s": "בקשה של \"מצדה\" - תנועת הנוער של הציונים הכלליים - לקרוא ליישוב בשם יוסף ספיר ז\"ל",
+        "sig_media_type_s": "תיק",
+        "sig_media_type_ss": [
+            "תיק"
+        ],
+        "attachment_url_s": "Archives/0b07170680020246/Files/0b071706808075ce/00071706.81.D3.8E.1C.pdf",
+        "objHier_attachment_attachmentType_s": "pdf",
+        "objectDatingMonths_ss": [
+            "06/1974",
+            "07/1974",
+            "08/1974",
+            "09/1974",
+            "10/1974",
+            "11/1974"
+        ],
+        "objectDatingMonths_dts": [
+            "1974-06-01T00:00:00Z",
+            "1974-07-01T00:00:00Z",
+            "1974-08-01T00:00:00Z",
+            "1974-09-01T00:00:00Z",
+            "1974-10-01T00:00:00Z",
+            "1974-11-01T00:00:00Z"
+        ],
+        "_version_": 1703901959535198208
+    }
+]

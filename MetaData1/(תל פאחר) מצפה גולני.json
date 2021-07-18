@@ -1,0 +1,309 @@
+[
+    {
+        "product_id_i": 575957,
+        "type_i": 1,
+        "lang_code_s": "en",
+        "name": "File",
+        "sku": "0b07170680807d4c",
+        "GroupFamilyName_s": "13325-0b07170680807d4c",
+        "modification_timestamp_tdt": "2020-05-31T20:04:25Z",
+        "modification_timestamp_s": "2020-05-31 20:04:25",
+        "group_id_i": 13325,
+        "product_code_t": "0b07170680807d4c",
+        "FamilyName_t": "0b07170680807d4c",
+        "objHier_objectType_t": "FILE",
+        "objHier_isFictiveItem_t": "false",
+        "objHier_isDeleted_t": "false",
+        "objDesc_objectName_t": "(תל פאחר) מצפה גולני",
+        "objDesc_objectName_tphon": "(תל פאחר) מצפה גולני",
+        "objDesc_objectName_e_t": "(תל פאחר) מצפה גולני",
+        "objDesc_objectDesc_t": "התיק עוסק באתר ההנצחה \"תל פאחר\", ובו בקשה לא לשנות את השם הערבי של המקום לשם עברי (מצפה גולני). בתיק מכתבים ממשפחות שכולות, והסברים מטעם וועדת השמות הממשלתית.",
+        "objDesc_objectDesc_tar": "התיק עוסק באתר ההנצחה \"תל פאחר\", ובו בקשה לא לשנות את השם הערבי של המקום לשם עברי (מצפה גולני). בתיק מכתבים ממשפחות שכולות, והסברים מטעם וועדת השמות הממשלתית.",
+        "objDesc_objectDesc_tfr": "התיק עוסק באתר ההנצחה \"תל פאחר\", ובו בקשה לא לשנות את השם הערבי של המקום לשם עברי (מצפה גולני). בתיק מכתבים ממשפחות שכולות, והסברים מטעם וועדת השמות הממשלתית.",
+        "objDesc_objectDesc_e_t": "התיק עוסק באתר ההנצחה \"תל פאחר\", ובו בקשה לא לשנות את השם הערבי של המקום לשם עברי (מצפה גולני). בתיק מכתבים ממשפחות שכולות, והסברים מטעם וועדת השמות הממשלתית.",
+        "objAttr_isGsaFeedEnabled_t": "true",
+        "objDate_datingPeriodStart_t": "01/03/1972",
+        "objDate_datingPeriodStartYear_t": "1972",
+        "objDate_datingPeriodEnd_t": "31/07/1972",
+        "objDate_datingPeriodEndYear_t": "1972",
+        "objHier_archiveId_t": "0b07170680020246",
+        "objHier_archiveName_t": "ועדת השמות הממשלתית",
+        "objHier_archiveName_e_t": "ועדת השמות הממשלתית",
+        "objHier_parentObjectId_t": "0b07170680359f2d",
+        "objAttr_archiveEditDate_t": "2020-05-24",
+        "objAttr_materialType_t": "תיק מסמכים",
+        "objAttr_mediaType_t": "מסמך",
+        "objAttr_mediaTypeOrig_t": "תיק מסמכים",
+        "addAttr_objectName_t": "ועדת השמות הממשלתית",
+        "addAttr_orgTree_t": "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית",
+        "addAttr_orgTree_e_t": "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית",
+        "addAttr_type_t": "תיק מסמכים",
+        "objHier_objectReference_t": "ISA-PMO-GovNamesCommittee-000dfyl",
+        "addAttr_statusChasifa_t": "גלוי",
+        "addAttr_tikOldNumber_t": "ג - 20 / 12410",
+        "addAttr_tikOldNumber_e_t": "ג - 20 / 12410",
+        "addAttr_matsa_t": "עבר דיגיטציה",
+        "addAttr_taarichMiuiadHashifa_t": "1987",
+        "addAttr_mezaheh_t": "ISA-PMO-GovNamesCommittee-000dfyl",
+        "addAttr_mezaheh_e_t": "ISA-PMO-GovNamesCommittee-000dfyl",
+        "addAttr_rimonObjectName_t": "(תל פאחר) מצפה גולני",
+        "addAttr_makom_t": "רמת הגולן | תל פאחר",
+        "objDate_datingPeriodStartMonth_t": "03",
+        "objDate_datingPeriodEndMonth_t": "07",
+        "task_t": "1597",
+        "altRef_relationType_t": "סימול מקורי",
+        "contentEntity_t": "0b07170680014dab|0b0717068001ad6e|0b07170680020246|0b07170680022fe2|0b07170684f3b911|0b071706850aa9fd|a7ac9342b34a4099|cf85adda13d141c6",
+        "is_scan_t": "1",
+        "product_code_s": "0b07170680807d4c",
+        "FamilyName_s": "0b07170680807d4c",
+        "objHier_objectType_s": "FILE",
+        "objHier_isFictiveItem_s": "false",
+        "objHier_isDeleted_s": "false",
+        "objDesc_objectName_s": "(תל פאחר) מצפה גולני",
+        "objDesc_objectDesc_s": "התיק עוסק באתר ההנצחה \"תל פאחר\", ובו בקשה לא לשנות את השם הערבי של המקום לשם עברי (מצפה גולני). בתיק מכתבים ממשפחות שכולות, והסברים מטעם וועדת השמות הממשלתית.",
+        "objAttr_isGsaFeedEnabled_s": "true",
+        "objDate_datingPeriodStart_s": "01/03/1972",
+        "objDate_datingPeriodStartYear_s": "1972",
+        "objDate_datingPeriodEnd_s": "31/07/1972",
+        "objDate_datingPeriodEndYear_s": "1972",
+        "objHier_archiveId_s": "0b07170680020246",
+        "objHier_archiveName_s": "ועדת השמות הממשלתית",
+        "objHier_parentObjectId_s": "0b07170680359f2d",
+        "objAttr_archiveEditDate_s": "2020-05-24",
+        "objAttr_materialType_s": "תיק מסמכים",
+        "objAttr_mediaType_s": "מסמך",
+        "objAttr_mediaTypeOrig_s": "תיק מסמכים",
+        "addAttr_objectName_s": "ועדת השמות הממשלתית",
+        "addAttr_orgTree_s": "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית",
+        "addAttr_type_s": "תיק מסמכים",
+        "objHier_objectReference_s": "ISA-PMO-GovNamesCommittee-000dfyl",
+        "addAttr_statusChasifa_s": "גלוי",
+        "addAttr_tikOldNumber_s": "ג - 20 / 12410",
+        "addAttr_matsa_s": "עבר דיגיטציה",
+        "addAttr_taarichMiuiadHashifa_s": "1987",
+        "addAttr_mezaheh_s": "ISA-PMO-GovNamesCommittee-000dfyl",
+        "addAttr_rimonObjectName_s": "(תל פאחר) מצפה גולני",
+        "addAttr_makom_s": "רמת הגולן | תל פאחר",
+        "objDate_datingPeriodStartMonth_s": "03",
+        "objDate_datingPeriodEndMonth_s": "07",
+        "task_s": "1597",
+        "altRef_relationType_s": "סימול מקורי",
+        "contentEntity_s": "0b07170680014dab|0b0717068001ad6e|0b07170680020246|0b07170680022fe2|0b07170684f3b911|0b071706850aa9fd|a7ac9342b34a4099|cf85adda13d141c6",
+        "is_scan_s": "1",
+        "product_code_ss": [
+            "0b07170680807d4c"
+        ],
+        "FamilyName_ss": [
+            "0b07170680807d4c"
+        ],
+        "objHier_objectType_ss": [
+            "FILE"
+        ],
+        "objHier_isFictiveItem_ss": [
+            "false"
+        ],
+        "objHier_isDeleted_ss": [
+            "false"
+        ],
+        "objDesc_objectName_ss": [
+            "(תל פאחר) מצפה גולני"
+        ],
+        "objDesc_objectDesc_ss": [
+            "התיק עוסק באתר ההנצחה \"תל פאחר\", ובו בקשה לא לשנות את השם הערבי של המקום לשם עברי (מצפה גולני). בתיק מכתבים ממשפחות שכולות, והסברים מטעם וועדת השמות הממשלתית."
+        ],
+        "objAttr_isGsaFeedEnabled_ss": [
+            "true"
+        ],
+        "objDate_datingPeriodStart_ss": [
+            "01/03/1972"
+        ],
+        "objDate_datingPeriodStartYear_ss": [
+            "1972"
+        ],
+        "objDate_datingPeriodEnd_ss": [
+            "31/07/1972"
+        ],
+        "objDate_datingPeriodEndYear_ss": [
+            "1972"
+        ],
+        "objHier_archiveId_ss": [
+            "0b07170680020246"
+        ],
+        "objHier_archiveName_ss": [
+            "ועדת השמות הממשלתית"
+        ],
+        "objHier_parentObjectId_ss": [
+            "0b07170680359f2d"
+        ],
+        "objAttr_archiveEditDate_ss": [
+            "2020-05-24"
+        ],
+        "objAttr_materialType_ss": [
+            "תיק מסמכים"
+        ],
+        "objAttr_mediaType_ss": [
+            "מסמך"
+        ],
+        "objAttr_mediaTypeOrig_ss": [
+            "תיק מסמכים"
+        ],
+        "addAttr_objectName_ss": [
+            "ועדת השמות הממשלתית"
+        ],
+        "addAttr_orgTree_ss": [
+            "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית"
+        ],
+        "addAttr_type_ss": [
+            "תיק מסמכים"
+        ],
+        "objHier_objectReference_ss": [
+            "ISA-PMO-GovNamesCommittee-000dfyl"
+        ],
+        "addAttr_statusChasifa_ss": [
+            "גלוי"
+        ],
+        "addAttr_tikOldNumber_ss": [
+            "ג - 20 / 12410"
+        ],
+        "addAttr_matsa_ss": [
+            "עבר דיגיטציה"
+        ],
+        "addAttr_taarichMiuiadHashifa_ss": [
+            "1987"
+        ],
+        "addAttr_mezaheh_ss": [
+            "ISA-PMO-GovNamesCommittee-000dfyl"
+        ],
+        "addAttr_rimonObjectName_ss": [
+            "(תל פאחר) מצפה גולני"
+        ],
+        "addAttr_makom_ss": [
+            "רמת הגולן ",
+            " תל פאחר"
+        ],
+        "objDate_datingPeriodStartMonth_ss": [
+            "03"
+        ],
+        "objDate_datingPeriodEndMonth_ss": [
+            "07"
+        ],
+        "task_ss": [
+            "1597"
+        ],
+        "altRef_relationType_ss": [
+            "סימול מקורי"
+        ],
+        "contentEntity_ss": [
+            "0b07170680014dab",
+            "0b0717068001ad6e",
+            "0b07170680020246",
+            "0b07170680022fe2",
+            "0b07170684f3b911",
+            "0b071706850aa9fd",
+            "a7ac9342b34a4099",
+            "cf85adda13d141c6"
+        ],
+        "is_scan_ss": [
+            "1"
+        ],
+        "solr_index_timestamp_tdt": "2021-05-11T10:55:48Z",
+        "solr_index_timestamp_s": "2021-05-11 10:55:48",
+        "file_has_items_s": "",
+        "organizations_s": "משרד ראש הממשלה|משרד הביטחון|ועדת השמות הממשלתית",
+        "organizations_t": "משרד ראש הממשלה|משרד הביטחון|ועדת השמות הממשלתית",
+        "organizations_ss": [
+            "משרד ראש הממשלה",
+            "משרד הביטחון",
+            "ועדת השמות הממשלתית"
+        ],
+        "enrichment_s": "הקמת אתרי הנצחה ואנדרטאות לחללי צה\"ל ולנפגעי פעולות איבה|תל פאחר|רמת הגולן|גולדה מאיר (1898 - 1978)| גולדה מבוביץ' | גולדה מאירסון|חללי צה\"ל ומערכות ישראל",
+        "enrichment_t": "הקמת אתרי הנצחה ואנדרטאות לחללי צה\"ל ולנפגעי פעולות איבה|תל פאחר|רמת הגולן|גולדה מאיר (1898 - 1978)| גולדה מבוביץ' | גולדה מאירסון|חללי צה\"ל ומערכות ישראל",
+        "enrichment_e_t": "הקמת אתרי הנצחה ואנדרטאות לחללי צה\"ל ולנפגעי פעולות איבה|תל פאחר|רמת הגולן|גולדה מאיר (1898 - 1978)| גולדה מבוביץ' | גולדה מאירסון|חללי צה\"ל ומערכות ישראל",
+        "enrichment_ss": [
+            "הקמת אתרי הנצחה ואנדרטאות לחללי צה\"ל ולנפגעי פעולות איבה",
+            "תל פאחר",
+            "רמת הגולן",
+            "גולדה מאיר (1898 - 1978)",
+            " גולדה מבוביץ' ",
+            " גולדה מאירסון",
+            "חללי צה\"ל ומערכות ישראל"
+        ],
+        "enrichment_1_s": "הקמת אתרי הנצחה ואנדרטאות לחללי צה\"ל ולנפגעי פעולות איבה|תל פאחר|רמת הגולן|גולדה מאיר (1898 - 1978)| גולדה מבוביץ' | גולדה מאירסון|חללי צה\"ל ומערכות ישראל",
+        "enrichment_1_t": "הקמת אתרי הנצחה ואנדרטאות לחללי צה\"ל ולנפגעי פעולות איבה|תל פאחר|רמת הגולן|גולדה מאיר (1898 - 1978)| גולדה מבוביץ' | גולדה מאירסון|חללי צה\"ל ומערכות ישראל",
+        "enrichment_1_ss": [
+            "הקמת אתרי הנצחה ואנדרטאות לחללי צה\"ל ולנפגעי פעולות איבה",
+            "תל פאחר",
+            "רמת הגולן",
+            "גולדה מאיר (1898 - 1978)",
+            " גולדה מבוביץ' ",
+            " גולדה מאירסון",
+            "חללי צה\"ל ומערכות ישראל"
+        ],
+        "enrichment_2_s": "הקמת אתרי הנצחה ואנדרטאות לחללי צה\"ל ולנפגעי פעולות איבה|תל פאחר|רמת הגולן|גולדה מאיר (1898 - 1978)| גולדה מבוביץ' | גולדה מאירסון|חללי צה\"ל ומערכות ישראל",
+        "enrichment_2_t": "הקמת אתרי הנצחה ואנדרטאות לחללי צה\"ל ולנפגעי פעולות איבה|תל פאחר|רמת הגולן|גולדה מאיר (1898 - 1978)| גולדה מבוביץ' | גולדה מאירסון|חללי צה\"ל ומערכות ישראל",
+        "enrichment_2_ss": [
+            "הקמת אתרי הנצחה ואנדרטאות לחללי צה\"ל ולנפגעי פעולות איבה",
+            "תל פאחר",
+            "רמת הגולן",
+            "גולדה מאיר (1898 - 1978)",
+            " גולדה מבוביץ' ",
+            " גולדה מאירסון",
+            "חללי צה\"ל ומערכות ישראל"
+        ],
+        "event_s": "",
+        "event_t": "",
+        "subject_s": "הקמת אתרי הנצחה ואנדרטאות לחללי צה\"ל ולנפגעי פעולות איבה|חללי צה\"ל ומערכות ישראל",
+        "subject_t": "הקמת אתרי הנצחה ואנדרטאות לחללי צה\"ל ולנפגעי פעולות איבה|חללי צה\"ל ומערכות ישראל",
+        "subject_ss": [
+            "הקמת אתרי הנצחה ואנדרטאות לחללי צה\"ל ולנפגעי פעולות איבה",
+            "חללי צה\"ל ומערכות ישראל"
+        ],
+        "place_s": "תל פאחר|רמת הגולן",
+        "place_t": "תל פאחר|רמת הגולן",
+        "place_ss": [
+            "תל פאחר",
+            "רמת הגולן"
+        ],
+        "person_s": "גולדה מאיר (1898 - 1978)",
+        "person_t": "גולדה מאיר (1898 - 1978)",
+        "person_tphon": "גולדה מאיר (1898 - 1978)",
+        "person_ss": [
+            "גולדה מאיר (1898 - 1978)"
+        ],
+        "project_s": "",
+        "project_t": "",
+        "attachment_content_t": "",
+        "attachment_content_tar": "",
+        "attachment_content_tfr": "",
+        "attachment_content_e_t": "",
+        "group_id_is": [
+            1
+        ],
+        "objectDatingYear_ss": [
+            "1972",
+            "1972"
+        ],
+        "objDesc_objectDesc_short_s": "התיק עוסק באתר ההנצחה \"תל פאחר\", ובו בקשה לא לשנות את השם הערבי של המקום לשם עברי (מצפה גולני). בתיק מכתבים ממשפחות שכולות, והסברים מטעם וועדת השמות הממשלתית.",
+        "sig_media_type_s": "תיק",
+        "sig_media_type_ss": [
+            "תיק"
+        ],
+        "attachment_url_s": "Archives/0b07170680020246/Files/0b07170680807d4c/00071706.81.D3.8E.52.pdf",
+        "objHier_attachment_attachmentType_s": "pdf",
+        "objectDatingMonths_ss": [
+            "03/1972",
+            "04/1972",
+            "05/1972",
+            "06/1972",
+            "07/1972"
+        ],
+        "objectDatingMonths_dts": [
+            "1972-03-01T00:00:00Z",
+            "1972-04-01T00:00:00Z",
+            "1972-05-01T00:00:00Z",
+            "1972-06-01T00:00:00Z",
+            "1972-07-01T00:00:00Z"
+        ],
+        "_version_": 1703902129582768128
+    }
+]

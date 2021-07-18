@@ -1,0 +1,370 @@
+[
+    {
+        "product_id_i": 576929,
+        "type_i": 1,
+        "lang_code_s": "en",
+        "name": "File",
+        "sku": "0b0717068081ea8d",
+        "GroupFamilyName_s": "13325-0b0717068081ea8d",
+        "modification_timestamp_tdt": "2020-05-31T20:04:27Z",
+        "modification_timestamp_s": "2020-05-31 20:04:27",
+        "group_id_i": 13325,
+        "product_code_t": "0b0717068081ea8d",
+        "FamilyName_t": "0b0717068081ea8d",
+        "objHier_objectType_t": "FILE",
+        "objHier_isFictiveItem_t": "false",
+        "objHier_isDeleted_t": "false",
+        "objDesc_objectName_t": "הועדה היסטורית (27-1)",
+        "objDesc_objectName_tphon": "הועדה היסטורית (27-1)",
+        "objDesc_objectName_e_t": "הועדה היסטורית (27-1)",
+        "objDesc_objectDesc_t": "דיון בשם בית גוברין, רשימת שמות שיסודם בשמות היסטוריים, פרסום שמות, זיהויים היסטוריים",
+        "objDesc_objectDesc_tar": "דיון בשם בית גוברין, רשימת שמות שיסודם בשמות היסטוריים, פרסום שמות, זיהויים היסטוריים",
+        "objDesc_objectDesc_tfr": "דיון בשם בית גוברין, רשימת שמות שיסודם בשמות היסטוריים, פרסום שמות, זיהויים היסטוריים",
+        "objDesc_objectDesc_e_t": "דיון בשם בית גוברין, רשימת שמות שיסודם בשמות היסטוריים, פרסום שמות, זיהויים היסטוריים",
+        "objAttr_isGsaFeedEnabled_t": "true",
+        "objDate_datingPeriodStart_t": "01/02/1951",
+        "objDate_datingPeriodStartYear_t": "1951",
+        "objDate_datingPeriodEnd_t": "31/03/1956",
+        "objDate_datingPeriodEndYear_t": "1956",
+        "objHier_archiveId_t": "0b07170680020246",
+        "objHier_archiveName_t": "ועדת השמות הממשלתית",
+        "objHier_archiveName_e_t": "ועדת השמות הממשלתית",
+        "objHier_parentObjectId_t": "0b07170680359f2d",
+        "objAttr_archiveEditDate_t": "2020-05-24",
+        "objAttr_materialType_t": "תיק מסמכים",
+        "objAttr_mediaType_t": "מסמך",
+        "objAttr_mediaTypeOrig_t": "תיק מסמכים",
+        "addAttr_objectName_t": "ועדת השמות הממשלתית",
+        "addAttr_orgTree_t": "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית",
+        "addAttr_orgTree_e_t": "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית",
+        "addAttr_type_t": "תיק מסמכים",
+        "objHier_objectReference_t": "ISA-PMO-GovNamesCommittee-000dp3y",
+        "addAttr_statusChasifa_t": "חסוי",
+        "addAttr_tikOldNumber_t": "ג - 3 / 12428",
+        "addAttr_tikOldNumber_e_t": "ג - 3 / 12428",
+        "addAttr_matsa_t": "עבר דיגיטציה",
+        "addAttr_taarichMiuiadHashifa_t": "1971",
+        "addAttr_mezaheh_t": "ISA-PMO-GovNamesCommittee-000dp3y",
+        "addAttr_mezaheh_e_t": "ISA-PMO-GovNamesCommittee-000dp3y",
+        "addAttr_rimonObjectName_t": "הועדה היסטורית (27-1)",
+        "objDate_datingPeriodStartMonth_t": "02",
+        "objDate_datingPeriodEndMonth_t": "03",
+        "task_t": "1597",
+        "altRef_relationType_t": "סימול מקורי",
+        "contentEntity_t": "0b07170680020246",
+        "product_code_s": "0b0717068081ea8d",
+        "FamilyName_s": "0b0717068081ea8d",
+        "objHier_objectType_s": "FILE",
+        "objHier_isFictiveItem_s": "false",
+        "objHier_isDeleted_s": "false",
+        "objDesc_objectName_s": "הועדה היסטורית (27-1)",
+        "objDesc_objectDesc_s": "דיון בשם בית גוברין, רשימת שמות שיסודם בשמות היסטוריים, פרסום שמות, זיהויים היסטוריים",
+        "objAttr_isGsaFeedEnabled_s": "true",
+        "objDate_datingPeriodStart_s": "01/02/1951",
+        "objDate_datingPeriodStartYear_s": "1951",
+        "objDate_datingPeriodEnd_s": "31/03/1956",
+        "objDate_datingPeriodEndYear_s": "1956",
+        "objHier_archiveId_s": "0b07170680020246",
+        "objHier_archiveName_s": "ועדת השמות הממשלתית",
+        "objHier_parentObjectId_s": "0b07170680359f2d",
+        "objAttr_archiveEditDate_s": "2020-05-24",
+        "objAttr_materialType_s": "תיק מסמכים",
+        "objAttr_mediaType_s": "מסמך",
+        "objAttr_mediaTypeOrig_s": "תיק מסמכים",
+        "addAttr_objectName_s": "ועדת השמות הממשלתית",
+        "addAttr_orgTree_s": "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית",
+        "addAttr_type_s": "תיק מסמכים",
+        "objHier_objectReference_s": "ISA-PMO-GovNamesCommittee-000dp3y",
+        "addAttr_statusChasifa_s": "חסוי",
+        "addAttr_tikOldNumber_s": "ג - 3 / 12428",
+        "addAttr_matsa_s": "עבר דיגיטציה",
+        "addAttr_taarichMiuiadHashifa_s": "1971",
+        "addAttr_mezaheh_s": "ISA-PMO-GovNamesCommittee-000dp3y",
+        "addAttr_rimonObjectName_s": "הועדה היסטורית (27-1)",
+        "objDate_datingPeriodStartMonth_s": "02",
+        "objDate_datingPeriodEndMonth_s": "03",
+        "task_s": "1597",
+        "altRef_relationType_s": "סימול מקורי",
+        "contentEntity_s": "0b07170680020246",
+        "product_code_ss": [
+            "0b0717068081ea8d"
+        ],
+        "FamilyName_ss": [
+            "0b0717068081ea8d"
+        ],
+        "objHier_objectType_ss": [
+            "FILE"
+        ],
+        "objHier_isFictiveItem_ss": [
+            "false"
+        ],
+        "objHier_isDeleted_ss": [
+            "false"
+        ],
+        "objDesc_objectName_ss": [
+            "הועדה היסטורית (27-1)"
+        ],
+        "objDesc_objectDesc_ss": [
+            "דיון בשם בית גוברין, רשימת שמות שיסודם בשמות היסטוריים, פרסום שמות, זיהויים היסטוריים"
+        ],
+        "objAttr_isGsaFeedEnabled_ss": [
+            "true"
+        ],
+        "objDate_datingPeriodStart_ss": [
+            "01/02/1951"
+        ],
+        "objDate_datingPeriodStartYear_ss": [
+            "1951"
+        ],
+        "objDate_datingPeriodEnd_ss": [
+            "31/03/1956"
+        ],
+        "objDate_datingPeriodEndYear_ss": [
+            "1956"
+        ],
+        "objHier_archiveId_ss": [
+            "0b07170680020246"
+        ],
+        "objHier_archiveName_ss": [
+            "ועדת השמות הממשלתית"
+        ],
+        "objHier_parentObjectId_ss": [
+            "0b07170680359f2d"
+        ],
+        "objAttr_archiveEditDate_ss": [
+            "2020-05-24"
+        ],
+        "objAttr_materialType_ss": [
+            "תיק מסמכים"
+        ],
+        "objAttr_mediaType_ss": [
+            "מסמך"
+        ],
+        "objAttr_mediaTypeOrig_ss": [
+            "תיק מסמכים"
+        ],
+        "addAttr_objectName_ss": [
+            "ועדת השמות הממשלתית"
+        ],
+        "addAttr_orgTree_ss": [
+            "משרד ראש הממשלה/מזכירות הממשלה/ועדת השמות הממשלתית"
+        ],
+        "addAttr_type_ss": [
+            "תיק מסמכים"
+        ],
+        "objHier_objectReference_ss": [
+            "ISA-PMO-GovNamesCommittee-000dp3y"
+        ],
+        "addAttr_statusChasifa_ss": [
+            "חסוי"
+        ],
+        "addAttr_tikOldNumber_ss": [
+            "ג - 3 / 12428"
+        ],
+        "addAttr_matsa_ss": [
+            "עבר דיגיטציה"
+        ],
+        "addAttr_taarichMiuiadHashifa_ss": [
+            "1971"
+        ],
+        "addAttr_mezaheh_ss": [
+            "ISA-PMO-GovNamesCommittee-000dp3y"
+        ],
+        "addAttr_rimonObjectName_ss": [
+            "הועדה היסטורית (27-1)"
+        ],
+        "objDate_datingPeriodStartMonth_ss": [
+            "02"
+        ],
+        "objDate_datingPeriodEndMonth_ss": [
+            "03"
+        ],
+        "task_ss": [
+            "1597"
+        ],
+        "altRef_relationType_ss": [
+            "סימול מקורי"
+        ],
+        "contentEntity_ss": [
+            "0b07170680020246"
+        ],
+        "solr_index_timestamp_tdt": "2021-05-11T10:55:55Z",
+        "solr_index_timestamp_s": "2021-05-11 10:55:55",
+        "file_has_items_s": "",
+        "organizations_s": "ועדת השמות הממשלתית",
+        "organizations_t": "ועדת השמות הממשלתית",
+        "organizations_ss": [
+            "ועדת השמות הממשלתית"
+        ],
+        "enrichment_s": "",
+        "enrichment_t": "",
+        "enrichment_e_t": "",
+        "enrichment_1_s": "",
+        "enrichment_1_t": "",
+        "enrichment_2_s": "",
+        "enrichment_2_t": "",
+        "event_s": "",
+        "event_t": "",
+        "subject_s": "",
+        "subject_t": "",
+        "place_s": "",
+        "place_t": "",
+        "person_s": "",
+        "person_t": "",
+        "person_tphon": "",
+        "project_s": "",
+        "project_t": "",
+        "attachment_content_t": "",
+        "attachment_content_tar": "",
+        "attachment_content_tfr": "",
+        "attachment_content_e_t": "",
+        "group_id_is": [
+            1
+        ],
+        "objectDatingYear_ss": [
+            "1951",
+            "1956"
+        ],
+        "objDesc_objectDesc_short_s": "דיון בשם בית גוברין, רשימת שמות שיסודם בשמות היסטוריים, פרסום שמות, זיהויים היסטוריים",
+        "sig_media_type_s": "תיק",
+        "sig_media_type_ss": [
+            "תיק"
+        ],
+        "attachment_url_s": "n",
+        "objHier_attachment_attachmentType_s": "n",
+        "objectDatingMonths_ss": [
+            "02/1951",
+            "03/1951",
+            "04/1951",
+            "05/1951",
+            "06/1951",
+            "07/1951",
+            "08/1951",
+            "09/1951",
+            "10/1951",
+            "11/1951",
+            "12/1951",
+            "01/1952",
+            "02/1952",
+            "03/1952",
+            "04/1952",
+            "05/1952",
+            "06/1952",
+            "07/1952",
+            "08/1952",
+            "09/1952",
+            "10/1952",
+            "11/1952",
+            "12/1952",
+            "01/1953",
+            "02/1953",
+            "03/1953",
+            "04/1953",
+            "05/1953",
+            "06/1953",
+            "07/1953",
+            "08/1953",
+            "09/1953",
+            "10/1953",
+            "11/1953",
+            "12/1953",
+            "01/1954",
+            "02/1954",
+            "03/1954",
+            "04/1954",
+            "05/1954",
+            "06/1954",
+            "07/1954",
+            "08/1954",
+            "09/1954",
+            "10/1954",
+            "11/1954",
+            "12/1954",
+            "01/1955",
+            "02/1955",
+            "03/1955",
+            "04/1955",
+            "05/1955",
+            "06/1955",
+            "07/1955",
+            "08/1955",
+            "09/1955",
+            "10/1955",
+            "11/1955",
+            "12/1955",
+            "01/1956",
+            "02/1956",
+            "03/1956"
+        ],
+        "objectDatingMonths_dts": [
+            "1951-02-01T00:00:00Z",
+            "1951-03-01T00:00:00Z",
+            "1951-04-01T00:00:00Z",
+            "1951-05-01T00:00:00Z",
+            "1951-06-01T00:00:00Z",
+            "1951-07-01T00:00:00Z",
+            "1951-08-01T00:00:00Z",
+            "1951-09-01T00:00:00Z",
+            "1951-10-01T00:00:00Z",
+            "1951-11-01T00:00:00Z",
+            "1951-12-01T00:00:00Z",
+            "1952-01-01T00:00:00Z",
+            "1952-02-01T00:00:00Z",
+            "1952-03-01T00:00:00Z",
+            "1952-04-01T00:00:00Z",
+            "1952-05-01T00:00:00Z",
+            "1952-06-01T00:00:00Z",
+            "1952-07-01T00:00:00Z",
+            "1952-08-01T00:00:00Z",
+            "1952-09-01T00:00:00Z",
+            "1952-10-01T00:00:00Z",
+            "1952-11-01T00:00:00Z",
+            "1952-12-01T00:00:00Z",
+            "1953-01-01T00:00:00Z",
+            "1953-02-01T00:00:00Z",
+            "1953-03-01T00:00:00Z",
+            "1953-04-01T00:00:00Z",
+            "1953-05-01T00:00:00Z",
+            "1953-06-01T00:00:00Z",
+            "1953-07-01T00:00:00Z",
+            "1953-08-01T00:00:00Z",
+            "1953-09-01T00:00:00Z",
+            "1953-10-01T00:00:00Z",
+            "1953-11-01T00:00:00Z",
+            "1953-12-01T00:00:00Z",
+            "1954-01-01T00:00:00Z",
+            "1954-02-01T00:00:00Z",
+            "1954-03-01T00:00:00Z",
+            "1954-04-01T00:00:00Z",
+            "1954-05-01T00:00:00Z",
+            "1954-06-01T00:00:00Z",
+            "1954-07-01T00:00:00Z",
+            "1954-08-01T00:00:00Z",
+            "1954-09-01T00:00:00Z",
+            "1954-10-01T00:00:00Z",
+            "1954-11-01T00:00:00Z",
+            "1954-12-01T00:00:00Z",
+            "1955-01-01T00:00:00Z",
+            "1955-02-01T00:00:00Z",
+            "1955-03-01T00:00:00Z",
+            "1955-04-01T00:00:00Z",
+            "1955-05-01T00:00:00Z",
+            "1955-06-01T00:00:00Z",
+            "1955-07-01T00:00:00Z",
+            "1955-08-01T00:00:00Z",
+            "1955-09-01T00:00:00Z",
+            "1955-10-01T00:00:00Z",
+            "1955-11-01T00:00:00Z",
+            "1955-12-01T00:00:00Z",
+            "1956-01-01T00:00:00Z",
+            "1956-02-01T00:00:00Z",
+            "1956-03-01T00:00:00Z"
+        ],
+        "is_scan_s": "0",
+        "is_scan_t": "0",
+        "is_scan_ss": [
+            "0"
+        ],
+        "_version_": 1703902134586572800
+    }
+]
